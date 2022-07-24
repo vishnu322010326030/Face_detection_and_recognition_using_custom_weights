@@ -1,0 +1,9 @@
+Google account
+Google drive
+Google colab
+Anaconda
+Git 
+python
+Sublime text
+Notepad++
+opencv
