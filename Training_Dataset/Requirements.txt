@@ -1,0 +1,5 @@
+Google account
+Google drive
+Google colab
+Anaconda
+Git
