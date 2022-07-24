@@ -1,0 +1,69 @@
+OIDV4-Dataset directory path
+____________________________
+
+main_folder
+│   main.py
+│
+└───OID
+    │   file011.txt
+    │   file012.txt
+    │
+    └───csv_folder
+    |    │   class-descriptions-boxable.csv
+    |    │   validation-annotations-bbox.csv
+    |
+    └───Dataset
+        |
+        └─── test
+        |
+        └─── train
+        |
+        └─── validation
+             |
+             └───Ballon
+             |     |
+             |     |0fdea8a716155a8e.jpg
+             |     |2fe4f21e409f0a56.jpg
+             |     |...
+             |     └───Labels
+             |            |
+             |            |0fdea8a716155a8e.txt
+             |            |2fe4f21e409f0a56.txt
+             |            |...
+             |
+             └───Airplane
+                   |
+                   |0b6f22bf3b586889.jpg
+                   |0baea327f06f8afb.jpg
+                   |...
+                   └───Labels
+                          |
+                          |0b6f22bf3b586889.txt
+                          |0baea327f06f8afb.txt
+                          |...
+
+------------------------------------------------------------------------------
+
+
+Drive directory path
+_______________________________________________________________________________
+
+MY Drive
+│   
+│
+└───Colab_Notebooks
+    │     
+    │
+    └───face_detection_project
+         │   backup
+         │   custom_weights   ---->  Darknet53.conv.74
+         │   darknet          ---->  Makefile
+         │   trainingset      ---->  Creating-files-data-and-name.py
+                                     Creating-train-test-txt-files.py
+                                     classes.names.txt
+
+
+----------------------------------------------------------------------------------
+
+
+
